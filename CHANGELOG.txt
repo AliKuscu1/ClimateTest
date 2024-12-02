@@ -12,7 +12,7 @@ Oct 29, 2024
 
 v2.4.5
 ======
-Sep 07, 2024ggggggg
+Sep 07, 2024gggg
 * Optimize method in WebUI keywordkkkkkkkkkkkkk
 * Remove handle QR Code (google.zxing)
 
